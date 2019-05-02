@@ -1,0 +1,23 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schymon17/mulitsteps-form-vuejs2.git"
+  },
+  "author": "Szymon Szymczyna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schymon17/mulitsteps-form-vuejs2/issues"
+  },
+  "homepage": "https://github.com/schymon17/mulitsteps-form-vuejs2#readme",
+  "dependencies": {
+    "vue": "^2.6.10",
+    "vue-form-wizard": "^0.8.4"
+  }
+}
